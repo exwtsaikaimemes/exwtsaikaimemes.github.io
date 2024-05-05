@@ -13,14 +13,14 @@ showinSearchEngines: true
 # Set basic server info
 serverName: Moonrise MC
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverIP: mc.exwtsaikaimemes.com
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://bit.ly/tsaismpdiscord
+discordServerID: 1225541636331671613
+discordChannelID: 1225541727100862616
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)

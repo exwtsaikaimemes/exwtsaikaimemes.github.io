@@ -3,21 +3,16 @@ layout: page
 navname: About
 ---
 
-# {{ site.serverName }}
+# {{ site.serverName }} Season 3
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+Ο Tsai SMP, στην 3η του σεζόν, έχει επικεντρωθεί στο να χτίσει lore, και να
+δώσει μια ξεχωριστή εμπειρία στους παίχτες του.
 
-[GitHub](https://github.com/coffeebank/moonrise)
+# Όροι Χρήσης
 
-
-# Terms of Use
-
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+Ακόμα το δουλεύουμε αυτό 😅.
 
 
-# Privacy Policy
+# Πολιτική Απορρήτου
 
-This website does not collect any data, but third party integrations may collect data to provide a service.
-
-- Mcsrvstat.us: Displays Minecraft server status
-- Widgetbot: Displays Discord server preview
+Καιιι αυτό 😁.

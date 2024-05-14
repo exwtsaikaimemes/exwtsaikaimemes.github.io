@@ -13,7 +13,7 @@ showinSearchEngines: true
 # Set basic server info
 serverName: Tsai SMP
 serverDescription: Ένας σερβερ που έχει main focus το lore.
-serverIP: mc.exwtsaikaimemes.com
+serverIP: play.tsaismp.com
 useBedrockForOnlineStatus: false
 
 

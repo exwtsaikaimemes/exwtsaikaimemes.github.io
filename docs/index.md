@@ -9,7 +9,7 @@ cellLinks:
     cimage: media/demo02.png
 
   - cname: Shop
-    curl: shop
+    curl: https://tsai-smp.tebex.io/
     cimage: media/demo03.png
 
   - cname: Lore

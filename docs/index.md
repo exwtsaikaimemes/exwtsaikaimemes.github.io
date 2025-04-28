@@ -6,11 +6,11 @@ navname: Home
 cellLinks:
   - cname: Screenshots
     curl: screenshots
-    cimage: media/demo02.png
+    cimage: media/demo03.png
 
   - cname: Shop
     curl: https://tsai-smp.tebex.io/
-    cimage: media/demo03.png
+    cimage: media/spawn_c3.png
 
   - cname: Lore
     curl: lore
